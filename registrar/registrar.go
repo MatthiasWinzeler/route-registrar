@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/cloudfoundry/gibson"
+	"github.com/MatthiasWinzeler/gibson"
 	"github.com/cloudfoundry/yagnats"
 
 	"github.com/cloudfoundry-incubator/route-registrar/config"
