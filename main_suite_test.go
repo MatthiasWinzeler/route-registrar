@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/cloudfoundry-incubator/route-registrar/config"
+	"github.com/MatthiasWinzeler/route-registrar/config"
 	"github.com/fraenkel/candiedyaml"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	routeRegistrarPackage = "github.com/cloudfoundry-incubator/route-registrar/"
+	routeRegistrarPackage = "github.com/MatthiasWinzeler/route-registrar/"
 )
 
 var (

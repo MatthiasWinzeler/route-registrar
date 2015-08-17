@@ -8,9 +8,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/cloudfoundry-incubator/route-registrar/config"
-	"github.com/cloudfoundry-incubator/route-registrar/healthchecker/fakes"
-	. "github.com/cloudfoundry-incubator/route-registrar/registrar"
+	. "github.com/MatthiasWinzeler/route-registrar/config"
+	"github.com/MatthiasWinzeler/route-registrar/healthchecker/fakes"
+	. "github.com/MatthiasWinzeler/route-registrar/registrar"
 	"github.com/pivotal-golang/lager"
 	"github.com/pivotal-golang/lager/lagertest"
 )

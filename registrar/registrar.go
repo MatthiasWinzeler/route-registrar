@@ -9,8 +9,8 @@ import (
 	"github.com/MatthiasWinzeler/gibson"
 	"github.com/cloudfoundry/yagnats"
 
-	"github.com/cloudfoundry-incubator/route-registrar/config"
-	. "github.com/cloudfoundry-incubator/route-registrar/healthchecker"
+	"github.com/MatthiasWinzeler/route-registrar/config"
+	. "github.com/MatthiasWinzeler/route-registrar/healthchecker"
 
 	"github.com/pivotal-golang/lager"
 )

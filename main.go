@@ -7,9 +7,9 @@ import (
 	"strconv"
 
 	"github.com/cloudfoundry-incubator/cf-lager"
-	"github.com/cloudfoundry-incubator/route-registrar/config"
-	. "github.com/cloudfoundry-incubator/route-registrar/healthchecker"
-	. "github.com/cloudfoundry-incubator/route-registrar/registrar"
+	"github.com/MatthiasWinzeler/route-registrar/config"
+	. "github.com/MatthiasWinzeler/route-registrar/healthchecker"
+	. "github.com/MatthiasWinzeler/route-registrar/registrar"
 	"github.com/pivotal-cf-experimental/service-config"
 	"github.com/pivotal-golang/lager"
 )

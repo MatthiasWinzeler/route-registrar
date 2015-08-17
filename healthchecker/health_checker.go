@@ -3,7 +3,7 @@ package healthchecker
 import (
 	"os"
 
-	. "github.com/cloudfoundry-incubator/route-registrar/config"
+	. "github.com/MatthiasWinzeler/route-registrar/config"
 	"github.com/pivotal-golang/lager"
 )
 

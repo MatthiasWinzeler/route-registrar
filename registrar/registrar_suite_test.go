@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/cloudfoundry-incubator/route-registrar/test_helpers"
+	. "github.com/MatthiasWinzeler/route-registrar/test_helpers"
 )
 
 func TestRoute_register(t *testing.T) {

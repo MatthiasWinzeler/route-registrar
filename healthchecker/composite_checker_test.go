@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/cloudfoundry-incubator/route-registrar/healthchecker"
+	. "github.com/MatthiasWinzeler/route-registrar/healthchecker"
 )
 
 type FakeHealthChecker struct {
